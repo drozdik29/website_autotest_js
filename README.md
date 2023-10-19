@@ -30,7 +30,7 @@ module.exports = {
   // ...
   helpers: {
     Playwright: {
-      url: 'https://fcdynamo.com/', // Your website's URL
+      url: 'https://giftly.klickly-dev.com/marketplace', // Your website's URL
       show: true, // Show the browser during testing (change to false for headless mode)
       browser: 'chromium', // The browser you want to use (chromium, firefox, webkit)
     },

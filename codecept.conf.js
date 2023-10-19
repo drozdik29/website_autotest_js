@@ -13,7 +13,7 @@ exports.config = {
   helpers: {
     Playwright: {
       browser: 'chromium',
-      url: 'https://fcdynamo.com',
+      url: 'https://giftly.klickly-dev.com/marketplace',
       show: true,
       windowSize:'1600x950'
     }
